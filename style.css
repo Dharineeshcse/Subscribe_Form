@@ -102,6 +102,7 @@ button > img{
       height: 50px;
       width: 230px;
       border-radius: 5px;
+      font-size : 16px;
     }
     form button{
       height: 50px;
